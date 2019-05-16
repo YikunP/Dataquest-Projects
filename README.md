@@ -1,5 +1,5 @@
 ## Dataquest-Projects
-I learn data science via the DATAQUEST website. After each course, there will be a related project to be completed. I will post my project solutions here. :-)
+I learn ~data science~ via the [DATAQUEST](https://www.dataquest.io/) website. After each course, there will be a related project to be completed. I will post my project solutions here. :-)
 
 Certificates of finished courses (You can verify them just by clicking links below):  
 - [Python for Data Science: Fundamentals](https://app.dataquest.io/view_cert/F2OA6H67BBW85RQGUEEC/)  
